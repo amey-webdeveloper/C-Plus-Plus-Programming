@@ -2,5 +2,5 @@
 
 C++ programming assignments and problem-solving practice.
 
-- Assignments
-- Problem-solving practice
+- 21 Assignments
+- 103 Programs
